@@ -1,6 +1,7 @@
 {
-    "active":  false,
-    "expires_at":  0,
-    "reason":  "",
-    "updated_at":  "2026-11-10T21:46:10.0662720-03:00"
+  "active": true,
+  "reason": "test",
+  "expires_at": 1794369551827,
+  "issued_by": "iprogam",
+  "updated_at": "2026-11-11T03:58:12.154Z"
 }
