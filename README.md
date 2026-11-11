@@ -1,2 +1,2 @@
-# craftos-releases
-Official releases and Windows installers for CraftOS Launcher.
+# Eclipse Client releases
+Official releases and Windows installers for Eclipse.
